@@ -233,19 +233,6 @@ This screenshot shows Windows denying access when the user tries to open an unau
 This screenshot shows the user creating or editing a test file inside the allowed department folder.
 
 
-1. VirtualBox lab VMs
-2. DC01 server/domain information
-3. Active Directory OU structure
-4. Users inside department OUs
-5. Security groups
-6. Group membership example
-7. CompanyShares folder structure
-8. Network share path
-9. Folder permissions
-10. Client joined to domain
-11. DNS/ping test
-12. Allowed access test
-13. Denied access test
 
 ## Result
 
